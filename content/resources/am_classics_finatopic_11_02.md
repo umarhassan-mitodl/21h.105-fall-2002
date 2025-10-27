@@ -6,8 +6,6 @@ description: 'Writing assignment on the meaning of freedom in American politics 
 file: /courses/21h-105-american-classics-fall-2002/7077c80383c70528a0ccdd02840fc0ea_am_classics_finatopic_11_02.pdf
 file_size: 108754
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

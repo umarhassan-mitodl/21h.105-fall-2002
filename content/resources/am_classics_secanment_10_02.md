@@ -4,8 +4,6 @@ description: Writing assignment to compare two key texts of the early American r
 file: /courses/21h-105-american-classics-fall-2002/0653dc93aecc316eb32bbab2e46fc2f5_am_classics_secanment_10_02.pdf
 file_size: 77708
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

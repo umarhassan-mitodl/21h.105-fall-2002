@@ -1,20 +1,18 @@
 ---
 content_type: page
 description: This section provides links to related resources for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 123120b3-2c81-3cf5-0db1-eb35ba60fa25
 ---
 
-[Museum of Fine Arts, Boston](http://www.mfa.org/)
+{{% resource_link "eb77e21e-774f-49d2-b9ef-b3fbdf6d6a92" "Museum of Fine Arts, Boston" %}}
 
-[Fogg Art museum, Harvard University, Cambridge](http://www.britannica.com/topic/Fogg-Art-Museum)
+{{% resource_link "726a18bb-7cdb-4927-a51f-c89aa97acdb2" "Fogg Art museum, Harvard University, Cambridge" %}}
 
-[Universal Declaration of Human Rights, UN](https://www.un.org/en/universal-declaration-human-rights/)
+{{% resource_link "f2848735-3212-4933-9f4d-efb7cecd1424" "Universal Declaration of Human Rights, UN" %}}
 
-[The "Four Freedoms" Speech, FDR Presidential Library and Museum](http://docs.fdrlibrary.marist.edu/od4freed.html)
+{{% resource_link "940670f6-5d73-4a3c-aacc-a6ea947a766d" "The \"Four Freedoms\" Speech, FDR Presidential Library and Museum" %}}
 
-[Declaration of Independence, NARR](http://www.archives.gov/exhibit_hall/charters_of_freedom/declaration/declaration.html)
+{{% resource_link "e8c8da5b-49c1-4b1f-a373-43a14d43f5d3" "Declaration of Independence, NARR" %}}

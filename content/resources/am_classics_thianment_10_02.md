@@ -4,8 +4,6 @@ description: Writing assignment.
 file: /courses/21h-105-american-classics-fall-2002/edbf4474de9bc16aae97f1002bcc4d6b_am_classics_thianment_10_02.pdf
 file_size: 73476
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

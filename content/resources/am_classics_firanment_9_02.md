@@ -4,8 +4,6 @@ description: Writing assignment on The Autobiography of Benjamin Franklin.
 file: /courses/21h-105-american-classics-fall-2002/8cda754ced152d2ca566f25e3f31371d_am_classics_firanment_9_02.pdf
 file_size: 87548
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
